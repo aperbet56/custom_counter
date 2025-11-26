@@ -27,7 +27,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #0f0e17;
-    color: #fffffe;
+    color: #ff8906;
 }
 
 /**** counter ****/
@@ -39,7 +39,7 @@ body {
 
 .playpause__btn {
     margin-top: 100px;
-    background-color: #fffffe;
+    background-color: #ff8906;
     color: #0f0e17;
     padding: 12px 20px;
     font-size: 1.5rem;
@@ -48,13 +48,11 @@ body {
     border-radius: 10px;
     cursor: pointer;
     transition: border-color 0.3s ease-in-out,
-        background-color 0.3s ease-in-out,
         color 0.3s ease-in-out;
 }
 
 .playpause__btn:hover {
     border-color: #fffffe;
-    background-color: #ff8906;
     color: #fffffe;
 }
 
